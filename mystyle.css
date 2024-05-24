@@ -1,9 +1,11 @@
 body {
-background-color: #Ff0000;
+background-color: #000000;
 font-family: "Roboto", sans-serif;
 
 }
-
+.header {
+color: #FFFFFF;
+}
 
 .roboto-thin {
   font-family: "Roboto", sans-serif;
