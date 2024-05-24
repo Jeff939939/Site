@@ -2,6 +2,11 @@ body {
 background-color: black;
   
 }
+h1 {
+  font-family: "Roboto", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
 .roboto-thin {
   font-family: "Roboto", sans-serif;
   font-weight: 100;
